@@ -69,6 +69,8 @@ section h1 {
     section {
         width: 80%;
     }
-
+    section h1, h2 {
+        text-align: none;
+    }
 }
 
